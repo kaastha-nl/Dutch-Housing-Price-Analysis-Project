@@ -21,3 +21,9 @@ with a focus on national, regional, provincial, and municipal differences.
 
 ### Tools
 - Python (pandas, matplotlib, seaborn)
+
+### Requirements
+pandas
+numpy
+matplotlib
+seaborn
