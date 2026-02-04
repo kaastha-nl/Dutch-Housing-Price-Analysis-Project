@@ -46,6 +46,17 @@ The objective is to understand **long-term price growth, regional disparities, v
   - Total growth since 1995
   - Most expensive province
 
+## Dashboard Preview
+
+### National Housing Price Trends
+![National Housing Price Trends](powerbi_dashboard_images/national_trend.png)
+
+### Provincial Growth vs Volatility
+![Province Growth vs Volatility](powerbi_dashboard_images/province_trend.png)
+
+### Municipality Price Comparison
+![Municipality Price Comparison](powerbi_dashboard_images/municipality_trend.png)
+
 ---
 
 ## Key Insights
