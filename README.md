@@ -1,4 +1,4 @@
-# Dutch Housing Price Analysis (1995–2025)
+# Dutch Housing Price Analysis (1995–2023)
 
 ## Project Overview
 This project analyzes long-term trends in **Dutch housing prices from 1995 to 2023** using **Power BI** and **Python**, based on publicly available CBS housing data.
